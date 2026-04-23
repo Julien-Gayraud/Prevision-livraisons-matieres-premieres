@@ -14,10 +14,9 @@ Le défi consistait à produire des prévisions **précises mais conservatrices*
 
 Plusieurs approches de prévision ont été testées et comparées, notamment :
 
-- modèles de séries temporelles,
-- modèles de Machine Learning,
-- méthodes de boosting,
-- approches statistiques classiques.
+- modèles de séries temporelles
+- modèles de Machine Learning
+- méthodes de boosting
 
 Les notebooks du projet présentent différents modèles tels que **Holt-Winters**, **SARIMA**, **Random Forest**, **XGBoost**, ainsi que d’autres expérimentations.
 
