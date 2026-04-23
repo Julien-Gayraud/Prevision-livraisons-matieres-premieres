@@ -1,6 +1,6 @@
 ## 1. Contexte
 
-Projet réalisé à **NTNU** dans le cadre d’un travail de groupe en Machine Learning.  
+Projet réalisé à **NTNU** dans le cadre d’un travail de groupe avec **Yannick Rudolf** et **Théo Choné** en Machine Learning.  
 
 Le projet s’inscrit dans une mission proposée autour d’un cas réel industriel impliquant **Append Consulting** et **Hydro ASA**, entreprise norvégienne spécialisée dans l’énergie, l’aluminium et le recyclage. L’objectif était de développer un modèle de prévision des livraisons de matières premières destiné à être intégré dans un outil d’optimisation logistique. 
 
