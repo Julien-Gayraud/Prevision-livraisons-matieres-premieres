@@ -25,6 +25,9 @@ Les notebooks du projet présentent différents modèles tels que **Holt-Winters
 
 ## 3. Présentation des fichiers
 
+- **Report.pdf**  
+  Rapport écrit décrivant l'analyse des données, la création de nouveaux attributs, la développement de divers modèles et leur évaluation.
+
 - **Task-Description.pdf**  
   Description officielle du problème, des objectifs métier et de la métrique d’évaluation.
 
